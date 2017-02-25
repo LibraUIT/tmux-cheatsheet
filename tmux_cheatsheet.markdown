@@ -1,6 +1,6 @@
 # tmux cheatsheet
 
-As configured in [my dotfiles]().
+As configured in [my dotfiles](https://github.com/LibraUIT/tmux-cheatsheet/blob/master/tmux.conf).
 
 start new:
 
